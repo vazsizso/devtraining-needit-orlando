@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="test">17993872dbed1010781c0d53ca961934</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 13:59:19</sys_created_on>
+        <sys_id>8fb97472dbed1010781c0d53ca9619ab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GMP Catalog Items.test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>io_set_item_8fb97472dbed1010781c0d53ca9619ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 13:59:19</sys_updated_on>
+        <variable_set display_value="GMP Catalog Items">9073b87edbad1010781c0d53ca96197b</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9e2a4d9fdb975b048264f70fbf96197d</instance_id>
+        <instance_name>dev65899</instance_name>
+        <name>io_set_item_8fb97472dbed1010781c0d53ca9619ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="test">17993872dbed1010781c0d53ca961934</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-25 13:59:19</sys_created_on><sys_id>8fb97472dbed1010781c0d53ca9619ab</sys_id><sys_mod_count>1</sys_mod_count><sys_name>GMP Catalog Items.test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>io_set_item_8fb97472dbed1010781c0d53ca9619ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-25 13:59:19</sys_updated_on><variable_set display_value="GMP Catalog Items">9073b87edbad1010781c0d53ca96197b</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1122955672</payload_hash>
+        <record_name>GMP Catalog Items.test</record_name>
+        <reverted_from/>
+        <source>4d1203f3db951010781c0d53ca961977</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 13:59:20</sys_created_on>
+        <sys_id>8bb97872dbed1010781c0d53ca9619bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ebc697540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 13:59:20</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>c3b97872bced101098875c46e6efdfbd</update_guid>
+        <update_guid_history>c3b97872bced101098875c46e6efdfbd:-1122955672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GMP Catalog Items.test">bd5a70b2dbed1010781c0d53ca96196d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 14:01:58</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>284edbcce6f34b808a3ecf9e4e0a4840</sys_id>
+        <sys_metadata>8fb97472dbed1010781c0d53ca9619ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GMP Catalog Items.test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>io_set_item_8fb97472dbed1010781c0d53ca9619ab</sys_update_name>
+        <sys_update_version display_value="io_set_item_8fb97472dbed1010781c0d53ca9619ab">8bb97872dbed1010781c0d53ca9619bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:01:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
